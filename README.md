@@ -2,12 +2,12 @@
 
 Aquest repositori està dedicat a l'exercici de Clean Code, té creat un Markdown on trobaràs que volia expressar l'autor del llibre en cada capítol/subcapítol de forma resumida i entenedora. L'arxiu *Exercise.md*.
 
-A més, com que m'ha agradat el llibre, me l'estic rellegint i fent el meu propi resum més extens per entendre'l millor així com per a agafar costums de llegir més i escriure més. Estarà acabat quan termini el llibre :smile:.
+Espero que t'agradi, el llibre és molt interessant i el seguiré llegint pel meu compte.
 
 
 
 
-A més de molts gatets jeje :joy:
+Tambe tenim molts gatets jeje :joy:
 
 ---
 
